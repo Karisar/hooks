@@ -1,3 +1,14 @@
+* Miten ne moduulirakenteet meni, feature vai funktio kansiot? Ducks?
+* redux toolkitillä slicet
+* drawer + formi sinne
+* pääsivulle table
+* formilla hookseille lokaaliin tilaan
+* formi voisi ottaa useEffectstillä vaikka jotain koodistoja alasvetovalikoihin
+* onsubmitilla reduxiin
+* pääsivun taulukko reduxin stateen kiinni
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
