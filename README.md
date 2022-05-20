@@ -1,6 +1,6 @@
 * Miten ne moduulirakenteet meni, feature vai funktio kansiot? Ducks?
 * Tyylittelyt - material ui:n tutorialien tavalla?
-* redux toolkitillä slicet
+* redux toolkitillä slicet / query
 * drawer + formi sinne
 * pääsivulle table
 * formilla hookseille lokaaliin tilaan
