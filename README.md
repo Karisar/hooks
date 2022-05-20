@@ -7,7 +7,7 @@
 * formi voisi ottaa useEffectstillä vaikka jotain koodistoja alasvetovalikoihin
 * onsubmitilla reduxiin
 * pääsivun taulukko reduxin stateen kiinni
-
+* Routerin alasivut dynaamisemmaksi, lista alisivuista vaikka komponenttina
 
 
 # Getting Started with Create React App
