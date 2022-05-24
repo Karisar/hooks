@@ -1,13 +1,12 @@
-* Miten ne moduulirakenteet meni, feature vai funktio kansiot? Ducks?
-* Tyylittelyt - material ui:n tutorialien tavalla?
-* redux toolkitillä slicet / query
-* drawer + formi sinne
-* pääsivulle table
-* formilla hookseille lokaaliin tilaan
-* formi voisi ottaa useEffectstillä vaikka jotain koodistoja alasvetovalikoihin
-* onsubmitilla reduxiin
-* pääsivun taulukko reduxin stateen kiinni
-* Routerin alasivut dynaamisemmaksi, lista alisivuista vaikka komponenttina
+* Folder structure by features or by component types? Ducks?
+* Styles? Follow the Material UI examples?
+* Redux toolkit slices / query
+* Drawer + embeded form within
+* Component state with hooks
+* Check useEffects in action
+* Maybe use RTK slices/query to read some code set (countries?) to redux state and then to UI
+* Submit a form via RTK
+* Router routes more dynamic, maybe extract the list of components and paths to own "component"
 
 
 # Getting Started with Create React App
